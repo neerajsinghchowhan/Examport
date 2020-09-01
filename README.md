@@ -9,3 +9,7 @@ check this link : https://examports.000webhostapp.com/<br>
 <br>
 the compressed file is given above (it is a dummy files for idea ,original files are not shared :)  )<br>
 you can make modify  to files to work 
+<br>
+<br>
+
+<a href="https://github.com/neerajsinghchowhan/Examport/blob/master/Examport.pdf"><h1>For More info  read this pdf</h1><br>Click Me</a>
